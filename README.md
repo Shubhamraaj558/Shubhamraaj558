@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shubhamraaj558&fontSize=42&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+SNAPKART+-+an+E-commerce+Platform;Building+an+Inventory+Management+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Flight+Reservation+System;Building+an+AI+ChatBot;Building+Library+Management+System;Uber+Data+Analysis+using+R" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhamraaj558&color=7dd3fc&style=flat)
@@ -18,8 +18,10 @@ const shubham = {
   title: "Full Stack Developer",
   stack: ["React", "Node.js", "Express", "MongoDB"],
   launchedProjects: [
-    "SNAPKART - Online Shopping / E-commerce Platform",
-    "Inventory Management System"
+    "Flight Reservation System",
+    "AI ChatBot",
+    "Library Management System",
+    "Uber Data Analysis using R"
   ],
   certifications: [],
   status: "Building full stack projects and leveling up 🚀",
@@ -29,15 +31,25 @@ const shubham = {
 
 ## 🚀 Featured Projects
 
-### 🛒 SNAPKART — Online Shopping Platform
-An e-commerce web application for online shopping.
+### ✈️ Flight Reservation System
+A system for booking and managing flight reservations.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/SNAPKART)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/Flight-Reservation-System)
 
-### 📦 Inventory Management System
-A system to manage and track inventory operations.
+### 🤖 AI ChatBot
+An AI-powered chatbot application.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/Inventory-Management-System)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/AI-ChatBot)
+
+### 📚 Library Management System
+A system to manage library operations and records.
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/Library-Management-System)
+
+### 🚕 Uber Data Analysis using R
+Data analysis project on Uber trip data using R.
+
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/Uber-Data-Analysis-R)
 
 > Repo names above are best guesses based on your project descriptions — rename the links if your actual repo names differ.
 
@@ -45,7 +57,7 @@ A system to manage and track inventory operations.
 
 **Languages & Frontend**
 
-![Skills](https://skillicons.dev/icons?i=react)
+![Skills](https://skillicons.dev/icons?i=react,r)
 
 **Backend / Infra**
 
@@ -80,6 +92,7 @@ A system to manage and track inventory operations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-697034367/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamraaj558@gmail.com)
 
 </div>
 

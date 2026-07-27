@@ -1,33 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Shubham%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="header"/>
-
-<a href="https://github.com/shubhamkumar558">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FCFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Express+%7C+Node.js+%7C+MongoDB;Exploring+AI+%2F+Machine+Learning;Building+SNAPKART+Shopping+%F0%9F%9B%92" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Shubham%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18" alt="header"/>
 
 <br/>
 
+### 🟢 Open to full-time developer roles
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge" alt="open to work"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20%2F%20AI--ML%20Roles-0ea5e9?style=for-the-badge" alt="roles"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=shubhamkumar558&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/shubhamkumar558?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="followers"/>
+<a href="https://www.linkedin.com/in/shubham-kumar-697034367" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shubhamraaj558@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-## 🧑‍💻 Who I Am
+## 👤 Who I Am
 
 ```typescript
 const shubhamKumar = {
-  title: "Full Stack Developer",
-  stack: ["React", "Express", "Node.js", "MongoDB", "Python", "R"],
-  focusAreas: ["Artificial Intelligence", "Machine Learning"],
+  title: "Full Stack Developer (Solo Builder)",
+  stack: {
+    frontend: ["React"],
+    backend:  ["Node.js", "Express"],
+    db:       ["MongoDB"],
+    ai:       ["Python", "R", "Machine Learning", "Artificial Intelligence"]
+  },
   launchedProjects: [
     "SNAPKART Shopping (E-commerce Platform)",
-    "Inventory Management System (Stock, Sales & User Operations)"
+    "Inventory Management System (Stock, Sales & User Ops)"
   ],
   status: "Building & learning, one commit at a time 🚀",
-  openTo: ["Collaborations", "Interesting Full Stack / AI-ML projects"]
+  openTo: ["Full-time Developer Roles", "Collaborations", "AI/ML Projects"]
 };
 ```
 
@@ -125,7 +134,7 @@ Stock, sales & user operations management
 
 <img src="https://raw.githubusercontent.com/shubhamkumar558/shubhamkumar558/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
-<sub>⚙️ Note: this animates only after you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo — see reminder below.</sub>
+<sub>⚙️ Note: this animates only after you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo.</sub>
 
 </div>
 

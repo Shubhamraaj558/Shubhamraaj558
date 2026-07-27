@@ -1,160 +1,86 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Shubham%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%7C%20Node.js%20%7C%20MongoDB&descAlignY=55&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shubhamraaj558&fontSize=42&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+SNAPKART+-+an+E-commerce+Platform;Building+an+Inventory+Management+System" alt="Typing SVG" />
+</a>
 
-### 🟢 Open to full-time developer roles
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge" alt="open to work"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20%2F%20AI--ML%20Roles-0ea5e9?style=for-the-badge" alt="roles"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shubhamkumar558&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/shubhamkumar558?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="followers"/>
-<a href="https://www.linkedin.com/in/shubham-kumar-697034367" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:shubhamraaj558@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=Shubhamraaj558&color=7dd3fc&style=flat)
+![Followers](https://img.shields.io/github/followers/Shubhamraaj558?color=7dd3fc&style=flat&label=Followers)
 
 </div>
 
-<br/>
-
-## 👤 Who I Am
+## 🧑‍💻 Who I Am
 
 ```typescript
-const shubhamKumar = {
-  title: "Full Stack Developer (Solo Builder)",
-  stack: {
-    frontend: ["React"],
-    backend:  ["Node.js", "Express"],
-    db:       ["MongoDB"],
-    ai:       ["Python", "R", "Machine Learning", "Artificial Intelligence"]
-  },
+const shubham = {
+  title: "Full Stack Developer",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
   launchedProjects: [
-    "SNAPKART Shopping (E-commerce Platform)",
-    "Inventory Management System (Stock, Sales & User Ops)"
+    "SNAPKART - Online Shopping / E-commerce Platform",
+    "Inventory Management System"
   ],
-  status: "Building & learning, one commit at a time 🚀",
-  openTo: ["Full-time Developer Roles", "Collaborations", "AI/ML Projects"]
+  certifications: [],
+  status: "Building full stack projects and leveling up 🚀",
+  openTo: ["Collaboration", "Full Stack Development Opportunities"]
 };
 ```
 
-<br/>
-
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🛒 SNAPKART — Online Shopping Platform
+An e-commerce web application for online shopping.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 SNAPKART Shopping
-E-commerce shopping platform
-
-**Layer I Technology:** React · Express · Node.js · MongoDB
-
-[💻 View Code](https://github.com/shubhamkumar558?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/SNAPKART)
 
 ### 📦 Inventory Management System
-Stock, sales & user operations management
+A system to manage and track inventory operations.
 
-**Layer I Technology:** React · Express · Node.js · MongoDB
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/Inventory-Management-System)
 
-[💻 View Code](https://github.com/shubhamkumar558?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+> Repo names above are best guesses based on your project descriptions — rename the links if your actual repo names differ.
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,r,js" alt="languages"/>
+**Languages & Frontend**
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react" alt="frontend"/>
+![Skills](https://skillicons.dev/icons?i=react)
 
 **Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend"/>
 
-**AI / Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,tensorflow" alt="ai-db"/>
-
-<br/>
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar558&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar558&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubhamraaj558&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9c9c9&icon_color=7dd3fc" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraaj558&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9c9c9" width="48%"/>
 
-<img src="https://streak-stats.demolab.com?user=shubhamkumar558&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Shubhamraaj558&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar558&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Shubhamraaj558&theme=nord&no-frame=true&no-bg=true&row=1&column=6"/>
 </div>
-
-<br/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkumar558&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="activity graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamraaj558&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true"/>
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shubhamkumar558/shubhamkumar558/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-<sub>⚙️ Note: this animates only after you add the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to your profile repo.</sub>
-
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shubham-kumar-697034367" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shubhamraaj558@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-697034367/)
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer&animation=twinkling" alt="footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer" width="100%"/>

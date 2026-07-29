@@ -58,17 +58,15 @@ Data analysis project on Uber trip data using R.
 
 [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/Uber-Data-Analysis-R)
 
-> Repo names above are best guesses based on your project descriptions — rename the links if your actual repo names differ.
-
 ## 🛠️ Tech Stack
 
 **Languages & Frontend**
 
-![Skills](https://skillicons.dev/icons?i=react,r)
+![Skills](https://skillicons.dev/icons?i=html,css,javascript,react,r,python)
 
 **Backend / Infra**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,rdbms)
 
 ## 📊 GitHub Stats
 

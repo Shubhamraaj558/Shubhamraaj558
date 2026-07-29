@@ -68,7 +68,7 @@ Data analysis project on Uber trip data using R.
 
 **Backend / Infra**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,python,)
 
 ## 📊 GitHub Stats
 

@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Who I Am
 
-```typescript
+typescript
 const shubham = {
   title: "Full Stack Developer",
   stack: ["React", "Node.js", "Express", "MongoDB"],
@@ -28,9 +28,11 @@ const shubham = {
   status: "Building full stack projects and leveling up 🚀",
   openTo: ["Collaboration", "Full Stack Development Opportunities"]
 };
-```
+
 
 ## 🚀 Featured Projects
+### 🛍️ SnapKart Online Shopping 
+A OneStop Shope Where You Get All The Daily Needs.
 
 ### ✈️ Flight Reservation System
 A system for booking and managing flight reservations.

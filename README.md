@@ -18,7 +18,7 @@ const shubham = {
   title: "Full Stack Developer",
   stack: ["React", "Node.js", "Express", "MongoDB"],
   launchedProjects: [
-    "E-Commerce Shopping Site(SNAPKART)
+    "E-Commerce Shopping Site(SNAPKART)",
     "Flight Reservation System",
     "AI ChatBot",
     "Library Management System",

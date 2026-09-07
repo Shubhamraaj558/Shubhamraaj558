@@ -35,7 +35,7 @@ const shubham = {
 ### 🛍️ SnapKart Online Shopping 
 A OneStop Shope Where You Get All The Daily Needs.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamraaj558/SnapKart)
+[![Code](https://snapkart-mern.vercel.app/)
 
 
 ### ✈️ Flight Reservation System

@@ -96,7 +96,7 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)-->
 
 ---
-## Featured Project 🚀
+##🚀 Featured Project
 
 ### **🛒 SnapKart - E-Commerce Web Application**
 

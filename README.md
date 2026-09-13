@@ -36,7 +36,9 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 
 ### **Languages**
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <!--[PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -104,11 +106,11 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 * ⚡ **High-Performance Catalog:** Engineered dynamic product filtering, sorting, and lightning-fast search capabilities to handle complex inventory queries smoothly. 
 * 🛍️ **Transactional Cart & Checkout Flow:** Built a reliable state-managed shopping cart with seamless progression to secure checkout stages. 
 * 📱 **Adaptive Multi-Device UI:** Handcrafted a fully responsive design system optimized for optimal performance across mobile, tablet, and desktop viewports. --- 
-### 🛠️ Technology Arsenal | Layer | Technologies Deployed | | :---
-| **Frontend** | React, Tailwind CSS, Modern JavaScript (ES6+) | 
-| **Backend** | Node.js, Express.js, RESTful API Design | 
-| **Database & Security** | MongoDB, Mongoose ODM, JWT, Bcrypt | 
-| **Deployment & Tools** | Git, GitHub Actions, Vercel / Render |
+### 🛠️ Technology Arsenal | Layer | Technologies Deployed
+- **Frontend:** React, Tailwind CSS, Modern JavaScript (ES6+)
+- **Backend:** Node.js, Express.js, RESTful API Design
+- **Database & Security:** MongoDB, Mongoose ODM, JWT, Bcrypt
+- **Deployment & Tools:** Git, GitHub Actions, Vercel / Render
 
 <p align="center">
   <a href="https://snapkart-mern.vercel.app" target="_blank">

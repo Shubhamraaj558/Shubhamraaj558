@@ -105,7 +105,16 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 * 🛍️ **Transactional Cart & Checkout Flow:** Built a reliable state-managed shopping cart with seamless progression to secure checkout stages. 
 * 📱 **Adaptive Multi-Device UI:** Handcrafted a fully responsive design system optimized for optimal performance across mobile, tablet, and desktop viewports. --- 
 ### 🛠️ Technology Arsenal | Layer | Technologies Deployed | | :--- | :--- | | **Frontend** | React, Tailwind CSS, Modern JavaScript (ES6+) | | **Backend** | Node.js, Express.js, RESTful API Design | | **Database & Security** | MongoDB, Mongoose ODM, JWT, Bcrypt | | **Deployment & Tools** | Git, GitHub Actions, Vercel / Render | ---
----
+
+<p align="center">
+  <a href="https://snapkart-mern.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Shubhamraaj558/SnapKart" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 

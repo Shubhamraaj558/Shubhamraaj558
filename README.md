@@ -98,13 +98,17 @@ I'm a passionate and innovative software developer dedicated to crafting scalabl
 
 ### **🛒 SnapKart - E-Commerce Web Application**
 
---- ### 💡 Executive Overview & Vision As the **Founder & Lead Architect**, I engineered **SnapKart** as a comprehensive e-commerce platform designed to replicate modern retail infrastructure. Built with scalability and user experience at its core, this project demonstrates end-to-end product lifecycle management—from database architecture to high-conversion UI design. > *"Bridging the gap between robust backend security and fluid, engaging user interfaces."* --- 
+💡 Executive Overview & Vision As the **Founder & Lead Architect**, I engineered **SnapKart** as a comprehensive e-commerce platform designed to replicate modern retail infrastructure. Built with scalability and user experience at its core, this project demonstrates end-to-end product lifecycle management—from database architecture to high-conversion UI design. > *"Bridging the gap between robust backend security and fluid, engaging user interfaces."* --- 
 ### ⚙️ Core Engineering & Capabilities ```mermaid graph TD A[Client UI / React + Tailwind] -->|REST API / JSON| B[Express.js / Node.js Core] B -->|Authentication & Security| C[JWT & Bcrypt Hashing] B -->|Persistent Storage| D[(MongoDB Cluster)] ``` 
 * 🛡️ **Secure Identity Management:** Implemented robust user authentication workflows backed by JSON Web Tokens (JWT) and advanced cryptographic password hashing. 
 * ⚡ **High-Performance Catalog:** Engineered dynamic product filtering, sorting, and lightning-fast search capabilities to handle complex inventory queries smoothly. 
 * 🛍️ **Transactional Cart & Checkout Flow:** Built a reliable state-managed shopping cart with seamless progression to secure checkout stages. 
 * 📱 **Adaptive Multi-Device UI:** Handcrafted a fully responsive design system optimized for optimal performance across mobile, tablet, and desktop viewports. --- 
-### 🛠️ Technology Arsenal | Layer | Technologies Deployed | | :--- | :--- | | **Frontend** | React, Tailwind CSS, Modern JavaScript (ES6+) | | **Backend** | Node.js, Express.js, RESTful API Design | | **Database & Security** | MongoDB, Mongoose ODM, JWT, Bcrypt | | **Deployment & Tools** | Git, GitHub Actions, Vercel / Render | ---
+### 🛠️ Technology Arsenal | Layer | Technologies Deployed | | :---
+| **Frontend** | React, Tailwind CSS, Modern JavaScript (ES6+) | 
+| **Backend** | Node.js, Express.js, RESTful API Design | 
+| **Database & Security** | MongoDB, Mongoose ODM, JWT, Bcrypt | 
+| **Deployment & Tools** | Git, GitHub Actions, Vercel / Render |
 
 <p align="center">
   <a href="https://snapkart-mern.vercel.app" target="_blank">

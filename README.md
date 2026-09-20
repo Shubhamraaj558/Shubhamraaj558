@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Shubhamraaj558/Shubhamraaj558/main/Header-image.png" alt="Banner" width="100%">
 </p>
 
-# Hi there, I'm **Shubham Kumar** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave-hand.gif" width="30px">
+# Hi there, I'm **Shubham Kumar** <img src="https://media.enthusiast.co/giphy/media/wW95gja0nhtOU/giphy.gif" width="30" /> 👋
 
 ## 💫 About Me
 I'm a passionate and innovative software developer dedicated to crafting scalable, efficient, and user-friendly solutions. With a diverse skillset spanning multiple languages and frameworks, I thrive on solving complex problems and continuously evolving my craft. I blend creativity with technical expertise to transform ideas into impactful, real-world applications.

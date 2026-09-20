@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/Shubhamraaj558/Shubhamraaj558/main/Header-image.png" alt="Banner" width="100%">
 </p>
 
-
-# Hi there, I'm **Shubham Kumar** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/gifs/hi.gif" width="30" />.
+# Hi there, I'm **Shubham Kumar** 👋
+<!--# Hi there, I'm **Shubham Kumar** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/gifs/hi.gif" width="30" />.-->
 
 
 ## 💫 About Me

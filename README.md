@@ -5,7 +5,7 @@
 
 <!--# Hi there, I'm **Shubham Kumar** 👋-->
 <!--# Hi there, I'm **Shubham Kumar** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/main/gifs/hi.gif" width="30" />.-->
-# Hi there, I'm **Shubham Kumar** <img src="https://raw.githubusercontent.com/Shubhamraaj558/Shubhamraaj558/main/Hii.gif" width="35" />
+# Hi there, I'm **Shubham Kumar** <img src="https://raw.githubusercontent.com/Shubhamraaj558/Shubhamraaj558/main/Hii.gif" width="40" />
 
 ## 💫 About Me
 I'm a passionate and innovative software developer dedicated to crafting scalable, efficient, and user-friendly solutions. With a diverse skillset spanning multiple languages and frameworks, I thrive on solving complex problems and continuously evolving my craft. I blend creativity with technical expertise to transform ideas into impactful, real-world applications.
